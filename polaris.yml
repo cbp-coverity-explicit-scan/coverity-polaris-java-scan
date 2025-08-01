@@ -1,10 +1,10 @@
 version: "1"
 project:
-  name: Java-CoverityPolaris-scan
+  name: coverity-polaris-java-scan
   branch: master
   revision:
     name: HEAD
-    date: "2025-07-17T00:00:00Z"
+    date: "2025-08-01T00:00:00Z"
 capture:
   coverity:
     autoCapture: enable
