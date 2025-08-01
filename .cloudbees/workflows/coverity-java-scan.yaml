@@ -1,6 +1,6 @@
 apiVersion: automation.cloudbees.io/v1alpha1
 kind: workflow
-name: Coverity scan for java
+name: Coverity polaris scan for java
 
 on:
   schedule:
